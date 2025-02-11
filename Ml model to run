@@ -1,23 +1,23 @@
 To predect the 
--percent cod removal .
+-% cod removal .
 -% ammonium nitrogen removal 
 -% nitrate nitrogen remaval 
 -% MLVSS increase 
 
-simple/conventional Multiple Linear regression : 
-Multiple Linear regression with Lasso Regularisation and Reach Regularisation : 
-Polynomial regression 
-xg boost 
-lite gbm
-opt gbm
-ebm
-ada boost 
-ann - two layer-three layer
-fnn- 
-ann lm regularisation
+1.simple/conventional Multiple Linear regression : 
+2. Multiple Linear regression with Lasso Regularisation and Reach Regularisation : 
+3.Polynomial regression 
+4. xg boost 
+5. lite gbm
+6. opt gbm
+7. ebm
+8. ada boost 
+9. ann - two layer-three layer
+10. fnn- 
+11. ann lm regularisation
 
-ann with bayes regularisation 
+12. ann with bayes regularisation 
 
 
 
-support vector regression 
+13. support vector regression 
