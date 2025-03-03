@@ -12,6 +12,8 @@ To predect the
 6. opt gbm
 7. ebm
 8. ada boost 
+with lime and sape ...(feature importance)
+
 9. ann - two layer-three layer
 10. fnn- 
 11. ann lm regularisation
